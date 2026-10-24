@@ -1,0 +1,5 @@
+C:\Users\neril_vewr2ep\OneDrive\Desktop\Mod Jump Space\JumpSpaceGraphicsMenu\obj\Release\net6.0\JumpSpaceGraphicsMenu.csproj.AssemblyReference.cache
+C:\Users\neril_vewr2ep\OneDrive\Desktop\Mod Jump Space\JumpSpaceGraphicsMenu\obj\Release\net6.0\JumpSpaceGraphicsMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neril_vewr2ep\OneDrive\Desktop\Mod Jump Space\JumpSpaceGraphicsMenu\obj\Release\net6.0\JumpSpaceGraphicsMenu.AssemblyInfoInputs.cache
+C:\Users\neril_vewr2ep\OneDrive\Desktop\Mod Jump Space\JumpSpaceGraphicsMenu\obj\Release\net6.0\JumpSpaceGraphicsMenu.AssemblyInfo.cs
+C:\Users\neril_vewr2ep\OneDrive\Desktop\Mod Jump Space\JumpSpaceGraphicsMenu\obj\Release\net6.0\JumpSpaceGraphicsMenu.csproj.CoreCompileInputs.cache

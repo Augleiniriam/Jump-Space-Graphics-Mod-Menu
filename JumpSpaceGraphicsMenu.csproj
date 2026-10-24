@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>JumpSpaceGraphicsMenu</AssemblyName>
+    <GameDir Condition="'$(GameDir)' == ''">C:\Program Files (x86)\Steam\steamapps\common\JumpSpace</GameDir>
+    <MelonLoaderDir Condition="'$(MelonLoaderDir)' == ''">$(GameDir)\MelonLoader</MelonLoaderDir>
+    <OutputPath>$(MSBuildThisFileDirectory)..\Mods\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MelonLoader" HintPath="$(MelonLoaderDir)\net6\MelonLoader.dll" />
+    <Reference Include="Il2Cppmscorlib" HintPath="$(MelonLoaderDir)\Il2CppAssemblies\Il2Cppmscorlib.dll" />
+    <Reference Include="Il2CppInterop.Runtime" HintPath="$(MelonLoaderDir)\net6\Il2CppInterop.Runtime.dll" />
+    <Reference Include="UnityEngine.CoreModule" HintPath="$(MelonLoaderDir)\Il2CppAssemblies\UnityEngine.CoreModule.dll" />
+    <Reference Include="UnityEngine.IMGUIModule" HintPath="$(MelonLoaderDir)\Il2CppAssemblies\UnityEngine.IMGUIModule.dll" />
+    <Reference Include="UnityEngine.InputLegacyModule" HintPath="$(MelonLoaderDir)\Il2CppAssemblies\UnityEngine.InputLegacyModule.dll" />
+  </ItemGroup>
+</Project>

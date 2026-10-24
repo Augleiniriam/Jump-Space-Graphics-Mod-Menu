@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZSrGolrSmQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neril_vewr2ep\\OneDrive\\Desktop\\Mod Jump Space\\JumpSpaceGraphicsMenu\\JumpSpaceGraphicsMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neril_vewr2ep\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\neril_vewr2ep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\neril_vewr2ep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Une erreur s’est produite lors de l’obtention des données de vulnérabilité du package\u00A0: Impossible de charger l'index de service pour la source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\neril_vewr2ep\\OneDrive\\Desktop\\Mod Jump Space\\JumpSpaceGraphicsMenu\\JumpSpaceGraphicsMenu.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\neril_vewr2ep\\OneDrive\\Desktop\\Mod Jump Space\\JumpSpaceGraphicsMenu\\JumpSpaceGraphicsMenu.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
