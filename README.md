@@ -1,3 +1,17 @@
 # Jump Space Graphics Menu
 
-Menu MelonLoader en jeu, ouvrable par **F6** et fermable par **Échap**. Réglages : qualité globale, textures, ombres, distance des ombres, antialiasing, filtrage anisotrope, VSync, limite FPS, résolution de sortie et échelle dynamique.
+Ouvrir le menu → touche F6
+Fermer le menu → touche Échap
+Réglages disponibles :
+Qualité globale
+Textures
+Ombres
+Distance des ombres
+Antialiasing
+Filtrage anisotrope
+VSync
+Limite de FPS
+Échelle dynamique
+
+Prérequis :
+MelonLoader est obligatoire pour faire fonctionner ce mod.
